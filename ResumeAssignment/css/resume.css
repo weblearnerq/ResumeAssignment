@@ -1,0 +1,21 @@
+body{
+    color: #1f1c1b
+}
+
+header{
+    background-color: rgb(201, 233, 225);
+    margin: -20px -8px;
+    padding: 20px;
+}
+
+section{
+    background-color: beige;
+    margin: -20px -8px;
+    padding: 20px;
+}
+
+footer{
+    background-color: rgb(201, 233, 225);
+    margin: -20px -8px;
+    padding: 20px;
+}
